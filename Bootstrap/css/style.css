@@ -38,10 +38,10 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.dropdown-container {
-    background-color: black;
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
-
 
 /* Navbar */
 
@@ -57,7 +57,7 @@ body {
 .navbar {
     margin-bottom: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, .90);
+    background-color: rgba(0, 0, 0, .25);
     border: 0;
 }
 
@@ -174,7 +174,7 @@ body {
 /* Quotes */
 
 .quotes .page-header {
-    margin-bottom: 25px;
+    margin-bottom: 100px;
 }
 
 /* Features */
